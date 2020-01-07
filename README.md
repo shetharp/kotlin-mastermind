@@ -1,5 +1,12 @@
 # kotlin-mastermind
- 
+Week 2 Assignment from [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/) on Coursera.
+
+### Setup Instructions
+1. Clone this repo
+2. Open the directory in IntelliJ as a new Gradle project
+3. The `TODO` code is in the `evaluateGuess.kt` file
+4. To play an actual game of Mastermind, run the `playMastermind.kt` file
+5. To test the implementation, run the test files located in the `test` directory
 
 ## Mastermind game
 
